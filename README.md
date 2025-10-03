@@ -1,7 +1,7 @@
 # 🚀 Daily DSA Grind
 
 > 🌱 _One problem a day keeps the bugs away!_  
-> This repo is my personal log of solving **Data Structures & Algorithms (DSA)** problems daily on LeetCode.
+> This repo is my personal log of solving **Data Structures & Algorithms** problems daily on LeetCode.
 
 ## 📊 Progress Tracker
 
