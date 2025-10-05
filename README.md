@@ -7,6 +7,9 @@
 
 | Date       | Problem                      | Difficulty | Notes                                  |
 | ---------- | ---------------------------- | ---------- | -------------------------------------- |
+| Oct 5 - 25 | Trapping Rain Water          | Hard       | Two pointers + left/right max tracking |
+| Oct 5 - 25 | Container With Most Water    | Medium     | Two pointers, move smaller line        |
+| Oct 5 - 25 | 3Sum                         | Medium     | Two pointers + skip duplicates         |
 | Oct 4 - 25 | Two Sum II - Input Sorted    | Medium     | Two-pointer technique, O(1) space      |
 | Oct 4 - 25 | Valid Palindrome             | Easy       | Two-pointer, skip non-alnum, lowercase |
 | Oct 4 - 25 | Valid Sudoku                 | Medium     | Rows/Cols/3×3 boxes with sets          |
