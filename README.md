@@ -5,19 +5,22 @@
 
 ## 📊 Progress Tracker
 
-| Date       | Problem                      | Difficulty | Notes                                  |
-| ---------- | ---------------------------- | ---------- | -------------------------------------- |
-| Oct 5 - 25 | Trapping Rain Water          | Hard       | Two pointers + left/right max tracking |
-| Oct 5 - 25 | Container With Most Water    | Medium     | Two pointers, move smaller line        |
-| Oct 5 - 25 | 3Sum                         | Medium     | Two pointers + skip duplicates         |
-| Oct 4 - 25 | Two Sum II - Input Sorted    | Medium     | Two-pointer technique, O(1) space      |
-| Oct 4 - 25 | Valid Palindrome             | Easy       | Two-pointer, skip non-alnum, lowercase |
-| Oct 4 - 25 | Valid Sudoku                 | Medium     | Rows/Cols/3×3 boxes with sets          |
-| Oct 3 - 25 | Longest Consecutive Sequence | Medium     | HashSet for O(n) seq                   |
-| Oct 3 - 25 | Encode and Decode Strings    | Medium     | String serialization                   |
-| Oct 3 - 25 | Top K Frequent Elements      | Medium     | HashMap + heap                         |
-| Oct 3 - 25 | Group Anagrams               | Medium     | HashMap with big tuple key             |
-| Oct 2 - 25 | Product of Array Except Self | Medium     | Prefix/suffix products                 |
-| Oct 2 - 25 | Two Sum                      | Easy       | Hash map pattern                       |
-| Oct 2 - 25 | Contains Duplicate           | Easy       | Set lookup                             |
-| Oct 2 - 25 | Valid Anagram                | Easy       | Hash map/sorting                       |
+| Date       | Problem                                        | Difficulty | Notes                                          |
+| ---------- | ---------------------------------------------- | ---------- | ---------------------------------------------- |
+| Oct 6 - 25 | Longest Repeating Character Replacement        | Medium     | Sliding window + HashMap + max frequency logic |
+| Oct 6 - 25 | Longest Substring Without Repeating Characters | Medium     | Sliding window + HashSet for unique chars      |
+| Oct 6 - 25 | Best Time to Buy and Sell Stock                | Easy       | Track min price, update max profit (one pass)  |
+| Oct 5 - 25 | Trapping Rain Water                            | Hard       | Two pointers + left/right max tracking         |
+| Oct 5 - 25 | Container With Most Water                      | Medium     | Two pointers, move smaller line                |
+| Oct 5 - 25 | 3Sum                                           | Medium     | Two pointers + skip duplicates                 |
+| Oct 4 - 25 | Two Sum II - Input Sorted                      | Medium     | Two-pointer technique, O(1) space              |
+| Oct 4 - 25 | Valid Palindrome                               | Easy       | Two-pointer, skip non-alnum, lowercase         |
+| Oct 4 - 25 | Valid Sudoku                                   | Medium     | Rows/Cols/3×3 boxes with sets                  |
+| Oct 3 - 25 | Longest Consecutive Sequence                   | Medium     | HashSet for O(n) seq                           |
+| Oct 3 - 25 | Encode and Decode Strings                      | Medium     | String serialization                           |
+| Oct 3 - 25 | Top K Frequent Elements                        | Medium     | HashMap + heap                                 |
+| Oct 3 - 25 | Group Anagrams                                 | Medium     | HashMap with big tuple key                     |
+| Oct 2 - 25 | Product of Array Except Self                   | Medium     | Prefix/suffix products                         |
+| Oct 2 - 25 | Two Sum                                        | Easy       | Hash map pattern                               |
+| Oct 2 - 25 | Contains Duplicate                             | Easy       | Set lookup                                     |
+| Oct 2 - 25 | Valid Anagram                                  | Easy       | Hash map/sorting                               |
