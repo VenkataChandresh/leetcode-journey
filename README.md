@@ -7,6 +7,7 @@
 
 | Date       | Problem                                        | Difficulty | Notes                                          |
 | ---------- | ---------------------------------------------- | ---------- | ---------------------------------------------- |
+| Oct 7 - 25 | Permutation in String                          | Medium     | Sliding window + Counter + frequency match     |
 | Oct 6 - 25 | Longest Repeating Character Replacement        | Medium     | Sliding window + HashMap + max frequency logic |
 | Oct 6 - 25 | Longest Substring Without Repeating Characters | Medium     | Sliding window + HashSet for unique chars      |
 | Oct 6 - 25 | Best Time to Buy and Sell Stock                | Easy       | Track min price, update max profit (one pass)  |
