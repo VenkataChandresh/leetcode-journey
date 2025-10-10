@@ -7,6 +7,7 @@
 
 | Date       | Problem                                        | Difficulty | Notes                                                                                                |
 | ---------- | ---------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------- |
+| Oct 9 - 25 | Min Stack                                      | Medium     | Used two stacks — one for values, one for mins.                                                      |
 | Oct 8 - 25 | Valid Parentheses                              | Easy       | Used stack + hash map to validate brackets, returned `not stack or len(stack) == 0` after full scan. |
 | Oct 7 - 25 | Sliding Window Maximum                         | Hard       | Monotonic deque for O(n) max tracking in each window                                                 |
 | Oct 7 - 25 | Minimum Window Substring                       | Hard       | Expand–shrink window using two pointers + hash maps to find smallest substring covering target       |
