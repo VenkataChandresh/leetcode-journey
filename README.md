@@ -7,6 +7,8 @@
 
 | Date        | Problem                                        | Difficulty | Notes                                                                                                |
 | ----------- | ---------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------- |
+| Oct 11 - 25 | Daily Temperatures                             | Medium     | Monotonic stack storing indices to find warmer days, O(n)                                            |
+| Oct 11 - 25 | Generate Parentheses                           | Medium     | Backtracking with open/close counts to form valid combinations                                       |
 | Oct 10 - 25 | Evaluate Reverse Polish Notation               | Medium     | Stack-based evaluation of postfix expressions, O(n) time.                                            |
 | Oct 9 - 25  | Min Stack                                      | Medium     | Used two stacks — one for values, one for mins.                                                      |
 | Oct 8 - 25  | Valid Parentheses                              | Easy       | Used stack + hash map to validate brackets, returned `not stack or len(stack) == 0` after full scan. |
