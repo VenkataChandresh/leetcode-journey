@@ -7,6 +7,7 @@
 
 | Date        | Problem                                        | Difficulty | Notes                                                                                                |
 | ----------- | ---------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------- |
+| Oct 12 - 25 | Car Fleet                                      | Medium     | Sort by position desc, compute time = (target - pos)/speed, use stack to count fleets                |
 | Oct 11 - 25 | Daily Temperatures                             | Medium     | Monotonic stack storing indices to find warmer days, O(n)                                            |
 | Oct 11 - 25 | Generate Parentheses                           | Medium     | Backtracking with open/close counts to form valid combinations                                       |
 | Oct 10 - 25 | Evaluate Reverse Polish Notation               | Medium     | Stack-based evaluation of postfix expressions, O(n) time.                                            |
