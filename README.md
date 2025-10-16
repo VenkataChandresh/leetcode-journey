@@ -7,6 +7,7 @@
 
 | Date        | Problem                                        | Difficulty | Notes                                                                                                                                                            |
 | ----------- | ---------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct 15 - 25 | Search a 2D Matrix                             | Medium     | Flattened 2D matrix and applied binary search logic using row/col calculation.                                                                                   |
 | Oct 14 - 25 | Binary Search                                  | Easy       | Implemented standard binary search using left/right pointers, O(log n) time complexity.                                                                          |
 | Oct 13 - 25 | Largest Rectangle in Histogram                 | Hard       | Used a monotonic increasing stack storing (height, start index). When a smaller bar appears, pop taller bars, calculate area using width `i - j`, and track max. |
 | Oct 12 - 25 | Car Fleet                                      | Medium     | Sort by position desc, compute time = (target - pos)/speed, use stack to count fleets                                                                            |
