@@ -7,6 +7,7 @@
 
 | Date        | Problem                                        | Difficulty | Notes                                                                                                                                                            |
 | ----------- | ---------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct 16 - 25 | Koko Eating Bananas                            | Medium     | Applied binary search on eating speed range (1 to max pile). Checked total hours at each mid speed to find the minimum feasible rate.                            |
 | Oct 15 - 25 | Search a 2D Matrix                             | Medium     | Flattened 2D matrix and applied binary search logic using row/col calculation.                                                                                   |
 | Oct 14 - 25 | Binary Search                                  | Easy       | Implemented standard binary search using left/right pointers, O(log n) time complexity.                                                                          |
 | Oct 13 - 25 | Largest Rectangle in Histogram                 | Hard       | Used a monotonic increasing stack storing (height, start index). When a smaller bar appears, pop taller bars, calculate area using width `i - j`, and track max. |
