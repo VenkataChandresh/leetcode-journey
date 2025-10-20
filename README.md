@@ -7,6 +7,7 @@
 
 | Date         | Problem                                        | Difficulty | Notes                                                                                                                                                            |
 | ------------ | ---------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct 19, 2025 | Time-Based Key-Value Store                     | Medium     | Used a hash map of lists storing (timestamp, value) pairs per key; applied binary search to retrieve the value with the largest timestamp ≤ target.              |
 | Oct 18, 2025 | Search in Rotated Sorted Array                 | Medium     | Binary search with rotation logic at each step, determine which half is sorted and decide which side to discard.                                                 |
 | Oct 17, 2025 | Find Minimum in Rotated Sorted Array           | Medium     | Used binary search to locate the rotation pivot by comparing mid and right elements; efficiently narrows search space to find the minimum in O(log n) time.      |
 | Oct 16 - 25  | Koko Eating Bananas                            | Medium     | Applied binary search on eating speed range (1 to max pile). Checked total hours at each mid speed to find the minimum feasible rate.                            |
