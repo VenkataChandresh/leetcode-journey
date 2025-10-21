@@ -7,6 +7,7 @@
 
 | Date         | Problem                                        | Difficulty | Notes                                                                                                                                                            |
 | ------------ | ---------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct 19, 2025 | Median of Two Sorted Arrays                    | Hard       | Used binary search on the smaller array to partition both arrays such that left half ≤ right half; computed median based on even/odd combined length.            |
 | Oct 19, 2025 | Time-Based Key-Value Store                     | Medium     | Used a hash map of lists storing (timestamp, value) pairs per key; applied binary search to retrieve the value with the largest timestamp ≤ target.              |
 | Oct 18, 2025 | Search in Rotated Sorted Array                 | Medium     | Binary search with rotation logic at each step, determine which half is sorted and decide which side to discard.                                                 |
 | Oct 17, 2025 | Find Minimum in Rotated Sorted Array           | Medium     | Used binary search to locate the rotation pivot by comparing mid and right elements; efficiently narrows search space to find the minimum in O(log n) time.      |
