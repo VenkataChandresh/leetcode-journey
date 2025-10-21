@@ -7,6 +7,7 @@
 
 | Date         | Problem                                        | Difficulty | Notes                                                                                                                                                            |
 | ------------ | ---------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct 21, 2025 | Reverse Linked List                            | Easy       | Reversed singly linked list iteratively using three pointers (`prev`, `curr`, `next`). O(n) time, O(1) space.                                                    |
 | Oct 20, 2025 | Median of Two Sorted Arrays                    | Hard       | Used binary search on the smaller array to partition both arrays such that left half ≤ right half; computed median based on even/odd combined length.            |
 | Oct 19, 2025 | Time-Based Key-Value Store                     | Medium     | Used a hash map of lists storing (timestamp, value) pairs per key; applied binary search to retrieve the value with the largest timestamp ≤ target.              |
 | Oct 18, 2025 | Search in Rotated Sorted Array                 | Medium     | Binary search with rotation logic at each step, determine which half is sorted and decide which side to discard.                                                 |
